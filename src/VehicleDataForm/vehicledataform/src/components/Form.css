@@ -1,0 +1,12 @@
+.preset-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.preset-buttons button {
+  padding: 6px 12px;
+  font-size: 14px;
+  width: auto;
+  max-width: 200px;
+}
